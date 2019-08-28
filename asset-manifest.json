@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MussadiqKhan/imageapp/static/css/main.62173de4.chunk.css",
-    "main.js": "/MussadiqKhan/imageapp/static/js/main.1e3bf8f3.chunk.js",
-    "main.js.map": "/MussadiqKhan/imageapp/static/js/main.1e3bf8f3.chunk.js.map",
-    "runtime~main.js": "/MussadiqKhan/imageapp/static/js/runtime~main.13811ebc.js",
-    "runtime~main.js.map": "/MussadiqKhan/imageapp/static/js/runtime~main.13811ebc.js.map",
-    "static/css/2.504f1c7f.chunk.css": "/MussadiqKhan/imageapp/static/css/2.504f1c7f.chunk.css",
-    "static/js/2.43dde73f.chunk.js": "/MussadiqKhan/imageapp/static/js/2.43dde73f.chunk.js",
-    "static/js/2.43dde73f.chunk.js.map": "/MussadiqKhan/imageapp/static/js/2.43dde73f.chunk.js.map",
-    "index.html": "/MussadiqKhan/imageapp/index.html",
-    "precache-manifest.3afb4c5072d18187d8a8e06519c926c3.js": "/MussadiqKhan/imageapp/precache-manifest.3afb4c5072d18187d8a8e06519c926c3.js",
-    "service-worker.js": "/MussadiqKhan/imageapp/service-worker.js",
-    "static/css/2.504f1c7f.chunk.css.map": "/MussadiqKhan/imageapp/static/css/2.504f1c7f.chunk.css.map",
-    "static/css/main.62173de4.chunk.css.map": "/MussadiqKhan/imageapp/static/css/main.62173de4.chunk.css.map",
-    "static/media/font-awesome.min.css": "/MussadiqKhan/imageapp/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/mussadiqKhan/imageapp/static/css/main.62173de4.chunk.css",
+    "main.js": "/mussadiqKhan/imageapp/static/js/main.3e3e0c27.chunk.js",
+    "main.js.map": "/mussadiqKhan/imageapp/static/js/main.3e3e0c27.chunk.js.map",
+    "runtime~main.js": "/mussadiqKhan/imageapp/static/js/runtime~main.21152820.js",
+    "runtime~main.js.map": "/mussadiqKhan/imageapp/static/js/runtime~main.21152820.js.map",
+    "static/css/2.b26e7553.chunk.css": "/mussadiqKhan/imageapp/static/css/2.b26e7553.chunk.css",
+    "static/js/2.81baa503.chunk.js": "/mussadiqKhan/imageapp/static/js/2.81baa503.chunk.js",
+    "static/js/2.81baa503.chunk.js.map": "/mussadiqKhan/imageapp/static/js/2.81baa503.chunk.js.map",
+    "index.html": "/mussadiqKhan/imageapp/index.html",
+    "precache-manifest.91f52e55c4a00b6ad3b74745841f2015.js": "/mussadiqKhan/imageapp/precache-manifest.91f52e55c4a00b6ad3b74745841f2015.js",
+    "service-worker.js": "/mussadiqKhan/imageapp/service-worker.js",
+    "static/css/2.b26e7553.chunk.css.map": "/mussadiqKhan/imageapp/static/css/2.b26e7553.chunk.css.map",
+    "static/css/main.62173de4.chunk.css.map": "/mussadiqKhan/imageapp/static/css/main.62173de4.chunk.css.map",
+    "static/media/font-awesome.min.css": "/mussadiqKhan/imageapp/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
